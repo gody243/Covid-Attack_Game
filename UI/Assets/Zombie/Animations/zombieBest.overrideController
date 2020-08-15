@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zombieBest
+  m_Controller: {fileID: 9100000, guid: 0547606459c9c554f83ee885cc68a8c9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 23ee7f6864c52b243bfb4f2da09bc287, type: 2}
+    m_OverrideClip: {fileID: -6257440219318784398, guid: 0d6373858f853604b960cf84b7d3dfbf,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 77c3de37a980599489d5f7f009c186fd, type: 2}
+    m_OverrideClip: {fileID: -6257440219318784398, guid: 59dbfb66512f63c4eb6e1e30e0603198,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: de559bbb071ebfd40ab5af80881e75e8, type: 2}
+    m_OverrideClip: {fileID: -6257440219318784398, guid: 631762b9a30b33a42836730a6b37d13f,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 812aae90a9297f249908057eed4c0879, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 812aae90a9297f249908057eed4c0879, type: 2}
